@@ -1,5 +1,5 @@
 # systemanalyze-tool
-tool based on pytho3 for analyze system(linux)
+tool based on python 3.7.6 for analyze linux system
 
 # Requirements
 
